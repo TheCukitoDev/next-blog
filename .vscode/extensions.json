@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"biomejs.biome",
+		"usernamehw.errorlens",
+		"adpyke.codesnap",
+		"bradlc.vscode-tailwindcss",
+		"YoavBls.pretty-ts-errors",
+		"wix.vscode-import-cost"
+	]
+}
